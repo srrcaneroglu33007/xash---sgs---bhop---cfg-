@@ -1,0 +1,6 @@
+alias "+sgs" "alias _special @sgs; @sgs"
+alias "-sgs" "alias _special"
+alias "@sgs" "+duck; w; -duck; w; w; +duck; w20; -duck; w10; w5; special"
+alias +bhop "alias _special @bhop;@bhop"
+alias -bhop "alias _special"
+alias @bhop "special;wait;+jump;wait;-jump"
